@@ -8,3 +8,6 @@
 *   Верстаем главную страницу сайта
 
 🔗 https://itlogia.ru/intensive/front
+
+
+https://ashkrop.github.io/lesson2/
