@@ -7,7 +7,8 @@
 *   Пробуем HTML + CSS на практике
 *   Верстаем главную страницу сайта
   
-🔗 https://ashkrop.github.io/lesson2/
+🔗 https://ashkrop.github.io/lesson2
+
 🔗 https://itlogia.ru/intensive/front
 
 
